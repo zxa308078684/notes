@@ -11,3 +11,4 @@
   - [着色器语言 GLSL (opengl-shader-language)入门大全 ](https://github.com/wshxbqq/GLSL-Card)
   - [WebGL 理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn/)
   - [从零开始学GLSL 知乎](https://zhuanlan.zhihu.com/c_1083379413340438528)
+  - [分享和编写GLSL的pixel shaders网站](https://www.shadertoy.com/)
