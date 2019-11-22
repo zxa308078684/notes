@@ -12,3 +12,8 @@
   - [WebGL 理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn/)
   - [从零开始学GLSL 知乎](https://zhuanlan.zhihu.com/c_1083379413340438528)
   - [分享和编写GLSL的pixel shaders网站](https://www.shadertoy.com/)
+
+- TS学习
+  - [TypeScript入门教程](https://ts.xcatliu.com/)
+  - [TypeScript中文网](https://www.tslang.cn/docs/home.html)
+  - [TypeScript中文手册](https://typescript.bootcss.com/tutorials/typescript-in-5-minutes.html)
