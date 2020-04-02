@@ -19,3 +19,7 @@ TS学习
   - [TypeScript入门教程](https://ts.xcatliu.com/)
   - [TypeScript中文网](https://www.tslang.cn/docs/home.html)
   - [TypeScript中文手册](https://typescript.bootcss.com/tutorials/typescript-in-5-minutes.html)
+
+---
+设计模式
+  - [图形化解说设计模式目录](https://refactoringguru.cn/design-patterns/catalog)
